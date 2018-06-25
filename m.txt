@@ -1,0 +1,60 @@
+    <div class="row">
+      <div class="col s0 m2"></div>
+      <div class="col s12 m8">
+        <div class="card blue-grey darken-1">
+          <div class="card-content white-text">
+            <span class="card-title">Name</span>
+            <table>
+                <thead>
+                  <tr>
+                    <th> </th>
+                    <th>Sunday</th>
+                    <th>Monday</th>
+                    <th>Tuesday</th>
+                    <th>Wednsday</th>
+                    <th>Thursday</th>
+                    <th>Friday</th>
+                    <th>Saturday</th>
+                    <th>Hours</th>
+                  </tr>
+                </thead>
+        
+                <tbody>
+                  <tr>
+                    <th class="usersName"></th>
+                    <td>
+                      <ul id="userSun" class="ues"></ul>
+                    </td>
+                    <td>
+                      <ul id="userMon" class="ues"></ul>
+                    </td>
+                    <td>
+                      <ul id="userTues" class="ues"></ul>
+                    </td>
+                    <td>
+                      <ul id="userWed" class="ues"></ul>
+                    </td>
+                    <td>
+                      <ul id="userThur" class="ues"></ul>
+                    </td>
+                    <td>
+                      <ul id="userFri" class="ues"></ul>
+                    </td>
+                    <td>
+                      <ul id="userSat" class="ues"></ul>
+                    </td>
+                    <td>
+                      <ul id="userHours" class="ues"></ul>
+                    </td>
+                  </tr>
+                </tbody>
+              </table>
+          </div>
+          <div class="card-action">
+            <a href="#">This is a link</a>
+            <a href="#">This is a link</a>
+          </div>
+        </div>
+      </div>
+      <div class="col s0 m2"></div>
+    </div>
